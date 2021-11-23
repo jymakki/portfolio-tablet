@@ -69,10 +69,10 @@ nav a{
   }
 
 .nav_item a.active {
-    border-bottom: 3px solid #7d8561;
+    border-bottom: 3px solid white;
     outline: none;
     padding: 5px 8px;
-    color: black;
+    color: white;
   }
 
 .nav_item{
@@ -146,7 +146,7 @@ footer p{
 
 /* ----TABLET VIEW----- */
 
-@media screen and (min-width: 650px){
+@media screen and (min-width: 750px){
 
 nav{
     margin-top: 15px;
